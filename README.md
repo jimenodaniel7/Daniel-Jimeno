@@ -141,6 +141,7 @@ University entrance exam grade: 12.556/14
 - **Tools & Frameworks:**  Git, Docker, SQL 
 ---
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimenodaniel7)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimenodaniel7)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
