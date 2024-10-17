@@ -17,7 +17,7 @@ Welcome to my professional portfolio! Here, you can find detailed information ab
 ## 🏢 Work Experience
 
 ### Researcher - National Hospital of Paraplegics
-* January 2024 - present*  
+*January 2024 - present*  
 **Location:** Toledo, Spain
 
 **Description:**
@@ -26,7 +26,7 @@ In the FENNSI group, I contributed to various projects, particularly in statisti
 
 
 ### Master's thesis - UC3M, University of Cambridge
-* January 2024 - September 2024*  
+*January 2024 - September 2024*  
 **Location:** Madrid, Spain
 
 **Description:**
@@ -39,7 +39,7 @@ Final grade: 8.4/10
 
 
 ### Research Assistant - Universidad de Alcalá
-* November 2022 - January 2024*  
+*November 2022 - January 2024*  
 **Location:** Alcalá, Spain
 
 **Description:**
@@ -50,7 +50,7 @@ The main focus of the research is the application of Artificial Intelligence in 
 
 
 ### Telefónica Tech Talentum scholarship in the Medical IoT & Big Data group - TTECH
-* May 2022 - November 2022*  
+*May 2022 - November 2022*  
 **Location:** Madrid, Spain
 
 **Description:**
@@ -59,7 +59,7 @@ Collaborated with the Engineering team at TTech to develop machine learning tool
 
 
 ### Bachelor's Thesis - UPM, University of Malmö
-* January 2022 - July 2022*  
+*January 2022 - July 2022*  
 **Location:** Madrid, Spain
 
 **Description:**
@@ -72,7 +72,7 @@ Final grade: 9.5/10
 
 
 ### Collaboration - National Hospital of Paraplegics
-* 2021 - 2022*  
+*2021 - 2022*  
 **Location:** Toledo, Spain
 
 **Description:**
@@ -85,7 +85,7 @@ The Project was about the development of a mobile APP for accurately recording t
 ## 🎓 Education
 
 ### Master’s degree in Machine Learning in Health at Universidad Carlos III de Madrid (UC3M) (in English) - Universidad Carlos III de Madrid
-* September 2023 - September 2024*  
+*September 2023 - September 2024*  
 **Location:** Madrid, Spain
 
 **Description:**
@@ -96,7 +96,7 @@ Final grade: 8.38/10
 
 
 ### Bachelor’s  degree  in  Biomedical  Engineering - Universidad Politécnica de Madrid
-* September 2017 - July 2022*  
+*September 2017 - July 2022*  
 **Location:** Madrid, Spain
 
 Specialization in Data Engineering and Digital Health.
