@@ -25,7 +25,7 @@ Welcome to my professional portfolio! Here, you can find detailed information ab
 **Description:**
 In the FENNSI group, I contributed to various projects, particularly in statistical data analysis and signal processing. However, my primary contribution was to HARIA, a European project focused on using robotic arms to assist physically disabled individuals in their daily activities. I was responsible for integrating the technological systems developed by other research groups into the hospital setting.
 
----
+
 
 ### Master's thesis - UC3M, University of Cambridge
 *Dates Employed: January 2024 - September 2024*  
@@ -38,7 +38,7 @@ This project involved designing a deep learning model, based on a ResNet archite
 
 Final grade: 8.4/10        
 
----
+
 
 ### Research Assistant - Universidad de Alcalá
 *Dates Employed: November 2022 - January 2024*  
@@ -49,7 +49,7 @@ The main focus of the research is the application of Artificial Intelligence in 
 - Developing deep learning models for diagnosing glaucoma in extreme cases of high myopia, using a database of fundus images. The training data was provided by Miguel Servet Hospital in Zaragoza.
 - Designing  machine learning models to predict the risk of neurodegenerative diseases, specifically Multiple Sclerosis and Alzheimer’s. The data for this project consisted of retinal layer thickness measurements from patients with these diseases, alongside an equal amount of data from a control group.
   
----
+
 
 ### Telefónica Tech Talentum scholarship in the Medical IoT & Big Data group - TTECH
 *Dates Employed: May 2022 - November 2022*  
@@ -58,7 +58,7 @@ The main focus of the research is the application of Artificial Intelligence in 
 **Description:**
 Collaborated with the Engineering team at TTech to develop machine learning tools for clinical applications.
 
----
+
 
 ### Bachelor's Thesis - UPM, University of Malmö
 *Dates Employed: January 2022 - July 2022*  
@@ -71,7 +71,7 @@ This project involved the acquisition, processing, and statistical analysis of E
 
 Final grade: 9.5/10        
 
----
+
 
 ### Collaboration - National Hospital of Paraplegics
 *Dates Employed: 2021 - 2022*  
@@ -95,7 +95,7 @@ Master's degree focused on the intersection of machine learning and bioengineeri
 
 Final grade: 8.38/10   
 
----
+
 
 ### Bachelor’s  degree  in  Biomedical  Engineering - Universidad Politécnica de Madrid
 *Dates Attended: September 2017 - July 2022*  
