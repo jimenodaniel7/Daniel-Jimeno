@@ -118,7 +118,7 @@ University entrance exam grade: 12.556/14
 - **Co-authors:**  F. J. Dongil-Moreno, M. Ortiz, A. Pueyo, L. Boquete, E. M. Sánchez-Morla, D. Jimeno-Huete, J. M. Miguel, R. Barea, E. Vilades & E. Garcia-Martin 
 
 ###  Differential Study of Retinal Thicknesses in the Eyes of Alzheimer’s Patients, Multiple Sclerosis Patients and Healthy Subjects  
-*Published in:  Biomedicines *  
+*Published in:  Biomedicines*  
 **Date:**  24 November 2023 
 
 - **Abstract:**  Multiple sclerosis (MS) and Alzheimer’s disease (AD) cause retinal thinning that is detectable in vivo using optical coherence tomography (OCT). To date, no papers have compared the two diseases in terms of the structural differences they produce in the retina. The purpose of this study is to analyse and compare the neuroretinal structure in MS patients, AD patients and healthy subjects using OCT. Spectral domain OCT was performed on 21 AD patients, 33 MS patients and 19 control subjects using the Posterior Pole protocol. The area under the receiver operating characteristic (AUROC) curve was used to analyse the differences between the cohorts in nine regions of the retinal nerve fibre layer (RNFL), ganglion cell layer (GCL), inner plexiform layer (IPL) and outer nuclear layer (ONL). 
@@ -126,7 +126,7 @@ University entrance exam grade: 12.556/14
 - **Co-authors:**  Elena Garcia-Martin, Daniel Jimeno-Huete, Francisco J. Dongil-Moreno, Luciano Boquete, Eva M. Sánchez-Morla, Juan M. Miguel-Jiménez,Almudena López-Dorado, Elisa Vilades, Maria I. Fuertes, Ana Pueyo & Miguel Ortiz del Castillo 
 
 ###  An IoT- Based System for the Study of Neuropathic Pain in Spinal Cord Injury  
-*Published in:  Springer *  
+*Published in:  Springer*  
 **Date:**  11 June 2023 
 
 - **Abstract:**  Neuropathic pain is a difficult condition to treat and would require reliable biomarkers to personalise and optimise treatments. To date, pain levels are mostly measured with subjective scales, but research has shown that electroencephalography (EEG) and heart rate variability (HRV) can be linked to those levels. Internet of Things technology could allow embedding EEG and HRV in easy-to-use systems that patients can use at home in their daily life. We have developed a system for home monitoring that includes a portable EEG device, a tablet application to guide patients through imaginary motor tasks while recording EEG, a wearable HRV sensor and a mobile phone app to report pain levels. We are using this system in a clinical study involving 15 spinal cord injury patients for one month. Preliminary results show that relevant data are being collected, with inter and intra-patients variability for both HRV and pain levels, and that the mobile phone app is perceived as usable, of good quality and useful. However, because of its complexity, the system requires some effort from patients, is sometimes unreliable and the collected EEG signals are not always of the desired quality. 
