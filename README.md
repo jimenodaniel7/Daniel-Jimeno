@@ -141,11 +141,8 @@ University entrance exam grade: 12.556/14
 - **Tools & Frameworks:**  AWS, Git, Docker, SQL
 - **Certificates:** Terraform Associate (004)
 ---
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimenodaniel7)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimenodaniel7)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
 ## 📬 Contact
 
