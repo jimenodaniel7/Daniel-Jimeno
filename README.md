@@ -137,8 +137,9 @@ University entrance exam grade: 12.556/14
 
 ## 💡 Skills
 
-- **Programming Languages:**  Python, Java, MATLAB, C, C++, HTML 
-- **Tools & Frameworks:**  Git, Docker, SQL 
+- **Programming Languages:**  Python, Java, MATLAB, C, C++, HTML, Terraform
+- **Tools & Frameworks:**  AWS, Git, Docker, SQL
+- **Certificates:** Terraform Associate (004)
 ---
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimenodaniel7)](https://github.com/anuraghazra/github-readme-stats)
 
